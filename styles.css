@@ -5,7 +5,7 @@ header {
   color: khaki;
   text-align: center;
   /* background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg') */
-  background-image: url('./img/pattern.jpeg')
+  background-image: url('./img/pattern.jpeg');
 }
 
 img {
